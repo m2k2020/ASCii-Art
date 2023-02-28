@@ -39,3 +39,23 @@ py run.py -t Musharraf-Faqi
              |_|  |_|\__,_|___/_| |_|\__,_|_|  |_|  \__,_|_|       |_|  \__,_|\__, |_|
                                                                                  |_|```
 ```
+
+## Qeybta Hormarinta /Development Setup
+
+1. **Sida aad github-ka ula dagi laheed / how to clone to github**
+```
+git clone https://github.com/m2k2020/PICT-OS.git
+cd Desktops/projects/ASCII-Art/starter_code 
+```
+
+2.  **Markaad dhammayso  koodkaaga, waxaad ku push-gareen kartaa kaydka akoonkaaga Github adoo isticmaalaya amarada soo socda. / Once you have finished editing your code, you can push the local repository to your Github account using the following commands.**
+```
+git remote -v 
+git remote remove origin 
+git remote add origin <https://github.com/<USERNAME>/<REPO_NAME>.git>
+git branch -M master
+
+git add . --all   
+git commit -m "your comment"
+git push -u origin master
+```
