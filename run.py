@@ -7,8 +7,6 @@ def get_arguments():
     arguments = parser.parse_args()
     return arguments.text
 
-
-
 def format_as_lines(text):
 
     LineText=text.split()
