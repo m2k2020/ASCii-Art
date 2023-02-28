@@ -1,6 +1,7 @@
 # ASCII Art
 -----
 
+## Dulamr / Overview
 ### SO 
 Tool-kaan Wuxuu kaa caawin Doonaa in uu si automatic kuugu sameeyo Farshaxnka lagu Magacaabo ASCII Art, Farshaxankaan Wuxuu ka Kooban yahy summaddo/calaamado leysku geeyay waxaan isticmaala dadka programmers-ka. waxaan tool-kaan aan ku sameeyay luqadda python waxaan ka dhigay Open Source sidoo kale waxaan ugu tala galay in ay dad walba kaa faa'ideystaan. 
 
