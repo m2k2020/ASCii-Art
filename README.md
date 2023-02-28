@@ -44,7 +44,7 @@ py run.py -t Musharraf-Faqi
 
 1. **Sida aad github-ka ula dagi laheed / how to clone to github**
 ```
-git clone https://github.com/m2k2020/PICT-OS.git
+git clone https://github.com/m2k2020/ASCii-Art.git
 cd Desktops/projects/ASCII-Art/starter_code 
 ```
 
